@@ -132,7 +132,7 @@ These instructions will help you set up the project on your local machine for de
 
 ## Usage
 
-Once the project is set up and running, you can view news articles from various sources on the client side. Open your browser and navigate to `http://localhost:3000` to start exploring QuickRead.news!
+Once the project is set up and running, you can view news articles from various sources on the client side. Open your browser and navigate to `http://localhost:5174` to start exploring QuickRead.news!
 
 ## 🤝 Contributing
 
