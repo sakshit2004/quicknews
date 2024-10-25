@@ -23,4 +23,4 @@
 
 </p>
 
-(https://forthebadge.com/images/badges/built-by-developers.svg)
+[![Built with love](https://forthebadge.com/images/badges/built-by-developers.svg)]
