@@ -52,20 +52,28 @@ QuickRead.news is a cutting-edge news aggregation platform designed to provide u
   - GitHub Desktop: For simplified Git operations
 
 ## 🚀 Getting Started
+These instructions will help you set up the project on your local machine for development and testing purposes.
 
-1. Clone the repository: git clone https://github.com/yourusername/QuickRead.news.git
+### Prerequisites
 
-2. Install dependencies:
+- Node.js and npm installed on your machine
+- A NewsAPI.org API key
 
-cd QuickRead.news
-npm install
+### Installation
 
-3. Set up environment variables:
-Create a `.env.local` file in the root directory and add necessary API keys.
+1. Fork the repository on GitHub.
+2. Clone the repository to your local machine.
+3. Navigate to the server directory and create a new file named `.env`.
+4. Add your NewsAPI.org API key to the `.env` file in the following format: `API_KEY=your_news_api_key`.
+5. In the server directory, run `npm install` to install the necessary dependencies.
+6. Start the server by running `node index.js`.
+7. Navigate to the client directory and run `npm install` to install the necessary dependencies.
+8. Start the client by running `npm run dev`.
 
-4. Run the development server: npm run dev
-   
-6. Open [http://localhost:3000](http://localhost:3000) in your browser.
+## Usage
+
+Once the project is set up and running, you can view news articles from various sources on the client side.
+
 
 ## 🤝 Contributing
 
