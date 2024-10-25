@@ -23,9 +23,9 @@
   <a href="#-acknowledgements">Acknowledgements</a>
 </p>
 
-## 🚀 About QuickRead.news
+## 🚀 About 
 
-QuickRead.news is a cutting-edge news aggregation platform designed to provide users with a seamless and efficient way to stay informed. Our mission is to deliver the most relevant and up-to-date news content from various sources, all in one place.
+Stay updated with breaking news and top stories in under 60 words. Perfect for busy lives! 🚀
 
 ## 🌟 Key Features
 
