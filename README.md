@@ -1,6 +1,4 @@
-Here's the entire README as a code block, ready to be copied and pasted:
 
-```markdown
 <h1 align="center">
     ✨ Welcome to QuickRead.news ✨
 </h1>
