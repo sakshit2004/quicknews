@@ -152,6 +152,3 @@ This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENS
 [![Built with love](https://forthebadge.com/images/badges/built-by-developers.svg)](https://github.com/sakshit2004)
 
 </div>
-```
-
-You can now copy this entire block and paste it directly into your README.md file. Remember to replace `yourusername` with your actual GitHub username in the clone URL and update any other placeholder information as needed.
