@@ -53,4 +53,37 @@ QuickRead.news is a cutting-edge news aggregation platform designed to provide u
 
 ## 🚀 Getting Started
 
-1. Clone the repository:
+1. Clone the repository: git clone https://github.com/yourusername/QuickRead.news.git
+
+2. Install dependencies:
+
+cd QuickRead.news
+npm install
+
+3. Set up environment variables:
+Create a `.env.local` file in the root directory and add necessary API keys.
+
+4. Run the development server: npm run dev
+   
+6. Open [http://localhost:3000](http://localhost:3000) in your browser.
+
+## 🤝 Contributing
+
+We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for more details.
+
+## 📄 License
+
+This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details.
+
+## 🙏 Acknowledgements
+
+- Thanks to all the open-source libraries and tools that made this project possible.
+- Special thanks to our contributors and supporters.
+
+<div align="center">
+
+[![Built with love](https://forthebadge.com/images/badges/built-by-developers.svg)](https://github.com/yourusername)
+
+</div>
+
+
